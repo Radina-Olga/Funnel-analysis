@@ -1,2 +1,12 @@
-# Funnel-analysis
-TASKS *1. Check if the time it takes to complete the various milestones is different for users who have completed the training and those who did not start the training. * How much does training reduce the time it takes to complete the milestones? * 2. See if there is a relationship between the probability of payment for questions and the number of training that the user started or completed. * It is necessary to prove that successful training itself affects the payment, and no matter what stage it went. * 3. Determine how often users start learning after they have chosen a difficulty level. * This will allow us to understand how transparent the process of interacting with the game is [Project 2.ipynb - Yandex.Disk] (https://disk.yandex.ru/d/ksanV0tUfkSevA) [Google Colab] (https://colab.research.google.com/drive/13rHYq3wnErLEIT64fGP7EWljJqE1cxN1?usp=sharing)
+# Funnel analysis
+TASKS: 
+*1. Check if the time it takes to complete the various milestones is different for users who have completed the training and those who did not start the training.
+*2. See if there is a relationship between the probability of payment for questions and the number of training that the user started or completed.
+*3. Determine how often users start learning after they have chosen a difficulty level. 
+Link on Google Colab - https://colab.research.google.com/drive/13rHYq3wnErLEIT64fGP7EWljJqE1cxN1?usp=sharing
+
+# Анализ воронки
+ЗАДАЧИ:
+*1. Проверить, отличается ли время прохождения различных этапов для пользователей, которые прошли обучение, от пользователей, не начинавших обучение.* Насколько обучение сокращает время прохождения этапов?
+*2. Посмотреть, существует ли зависимость между вероятностью оплаты вопросов и количеством обучений, которые начинал или завершал пользователь.* Нужно доказать, что успешное обучение само по себе влияет на оплату, и без разницы, каким этапом оно шло.
+*3. Определить, как часто пользователи начинают обучение после того, как они выбрали уровень сложности.* Это позволит нам понять, насколько прозрачен процесс взаимодействия с игрой
